@@ -20,7 +20,7 @@ p { color: white;}
 <body>
 <h1>2OPTIONS SERVICES</h1>
 <h2>FOREX TRADING COMPLETE COURSE</h2>
-<embed src="path/to/your/FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf" type="application/pdf" width="100%" height="600px" />
 <p>If you are a beginner in retail trading and you want a quick start, this ebook can help you.</p>
 
 
