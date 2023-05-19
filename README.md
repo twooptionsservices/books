@@ -6,7 +6,7 @@ We created a page for our customer to access ebooks that we use.
 <style>
 body {
 background-color: black;
-margin: 15%;
+margin: 10%;
 font-family: san-serif;}
 h1 {
 text-align: center;
@@ -14,6 +14,7 @@ font-family: serif;
 font-weight: normal;
 font-transform: uppercase;
 color: white;}
+h2 {color: white;}
 p { color: white;}
 </style>
 </head>
