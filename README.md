@@ -1,5 +1,4 @@
-# books
-We created a page for our customer to access ebooks that we use.
+
 <html>
 <head><meta charset="utf 1">
 <title>2OPTIONS SERVICES</title>
