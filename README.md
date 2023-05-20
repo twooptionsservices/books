@@ -20,7 +20,7 @@ p { color: white;}
 <body>
 <h1>2OPTIONS SERVICES</h1>
 <h2>FOREX TRADING COMPLETE COURSE</h2>
-<a href="Page3.html">If the browser doesn't support item, click this to read in another browser</a>
+<a href="https://twooptionsservices.github.io/books/FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf">If the browser doesn't support item, click this to read in another browser</a>
 
 <embed src="FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf" type="application/pdf" width="100%" height="600px" />
 
