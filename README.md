@@ -16,6 +16,29 @@ color: white;}
 h2 {color: white;}
 p { color: white;}
 </style>
+<script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script>
+<div id="pdfContainer"></div>
+<script> 
+  const url = 'path/to/your/file.pdf';
+  pdfjsLib.getDocument(url).promise.then(pdf => {
+    pdf.getPage(1).then(page => { 
+      const canvas = document.createElement('canvas');
+      const context = canvas.getContext('2d');
+      canvas.width = 600;
+      canvas.height = 800;
+      const viewport = page.getViewport({ scale: 1 });
+      const renderContext = {
+        canvasContext: context,
+        viewport: viewport
+      };
+      page.render(renderContext).promise.then(() => {
+       
+        const container = document.getElementById('pdfContainer');
+        container.appendChild(canvas);
+      });
+    });
+  });
+</script>
 </head>
 <body>
 <h1>2OPTIONS SERVICES</h1>
