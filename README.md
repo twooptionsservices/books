@@ -45,7 +45,9 @@ p { color: white;}
 <h2>FOREX TRADING COMPLETE COURSE</h2>
 <a href="FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf" download>Download PDF</a>
 
-<iframe src="FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf" width="100%" height="600px"></iframe>
+
+<embed src="FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf" type="application/pdf" width="100%" height="600px" />
+
 <p>If you are a beginner in retail trading and you want a quick start, this ebook can help you.</p>
 
 
