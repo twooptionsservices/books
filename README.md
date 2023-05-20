@@ -19,7 +19,7 @@ p { color: white;}
 <script src="https://mozilla.github.io/pdf.js/build/pdf.js"></script>
 <div id="pdfContainer"></div>
 <script> 
-  const url = 'path/to/your/file.pdf';
+  const url = 'FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf';
   pdfjsLib.getDocument(url).promise.then(pdf => {
     pdf.getPage(1).then(page => { 
       const canvas = document.createElement('canvas');
@@ -43,6 +43,8 @@ p { color: white;}
 <body>
 <h1>2OPTIONS SERVICES</h1>
 <h2>FOREX TRADING COMPLETE COURSE</h2>
+<a href="FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf" download>Download PDF</a>
+
 <iframe src="FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf" width="100%" height="600px"></iframe>
 <p>If you are a beginner in retail trading and you want a quick start, this ebook can help you.</p>
 
