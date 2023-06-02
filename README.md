@@ -25,7 +25,11 @@ p { color: white;}
 <embed src="FOREX_TRADING_COMPLETE_COURSE_STUDY-_FOR.pdf" type="application/pdf" width="100%" height="600px" />
 
 <p>If you are a beginner in retail trading and you want a quick start, this ebook can help you.</p>
-
+<a href="page2.html">Next Page>>>>>>>>>>>>
+<br>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<br>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<br>>>>>>>>>>>>>>>>>>>>>>>>>>>>></a>
 
 </body>
 </html>
